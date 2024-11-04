@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "title": "PESCE: Pinne e Capricci",
+    "uri": "../av/Fins and Whims (1).mp3",
+    "cover": "../img/riba1.png"
+  },
+  {
+    "id": "2",
+    "title": "PESCE: Prede del Giorno",
+    "uri": "../av/Catch of the Day.mp3",
+    "cover": "../img/riba2.png"
+  },
+  {
+    "id": "3",
+    "title": "PESCE: Intrappolati nella Rete",
+    "uri": "../av/Caught in the Net.mp3",
+    "cover": "../img/riba3.png"
+  },
+  {
+    "id": "4",
+    "title": "PESCE: Intrappolati nella Rete di Rete",
+    "uri": "../av/Caught in the Net (1).mp3",
+    "cover": "../img/riba4.png"
+  },
+  {
+    "id": "5",
+    "title": "PESCE: Pinne e Capricci",
+    "uri": "../av/Fins and Whims.mp3",
+    "cover": "../img/riba5.png"
+  },
+  {
+    "id": "6",
+    "title": "PESCE: Pesci a Detroit",
+    "uri": "../av/Fish in Detroit.mp3",
+    "cover": "../img/riba6.png"
+  },
+  {
+    "id": "7",
+    "title": "PESCE: Storie di Pesci",
+    "uri": "../av/Fish Tales.mp3",
+    "cover": "../img/riba7.png"
+  },
+  {
+    "id": "8",
+    "title": "PESCE: Affari di Pesce",
+    "uri": "../av/Fishy Biz (1).mp3",
+    "cover": "../img/riba8.png"
+  },
+  {
+    "id": "9",
+    "title": "PESCE: Affari di Pesce",
+    "uri": "../av/Fishy Biz.mp3",
+    "cover": "../img/riba9.png"
+  },
+  {
+    "id": "10",
+    "title": "PESCE: Carne degli Abissi",
+    "uri": "../av/Flesh of the Deep.mp3",
+    "cover": "../img/riba10.png"
+  },
+  {
+    "id": "11",
+    "title": "PESCE: Blues Sottomarino",
+    "uri": "../av/Underwater Blues (1).mp3",
+    "cover": "../img/riba11.png"
+  },
+  {
+    "id": "12",
+    "title": "PESCE: Blues Sottomarino",
+    "uri": "../av/Underwater Blues.mp3",
+    "cover": "../img/riba12.png"
+  },
+  {
+    "id": "13",
+    "title": "PESCE: Andato a Pescare",
+    "uri": "../av/Gone Fishin.mp3",
+    "cover": "../img/riba13.png"
+  },
+  {
+    "id": "14",
+    "title": "PESCE: Andato",
+    "uri": "../av/Gone.mp3",
+    "cover": "../img/riba14.png"
+  },
+  {
+    "id": "15",
+    "title": "PESCE: Frenesia di Pesce",
+    "uri": "../av/Fish Frenzy.mp3",
+    "cover": "../img/riba15.png"
+  }
+]
